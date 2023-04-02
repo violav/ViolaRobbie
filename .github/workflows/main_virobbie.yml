@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'viRobbie'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C78F7984354243F0BE8955A0F0F40710 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BF458347DE742B9A05FE4234ED2798B }}
           package: .
